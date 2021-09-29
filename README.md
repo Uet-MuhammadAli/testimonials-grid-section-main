@@ -28,10 +28,10 @@ Users should be able to:
 
 ### Screenshot
 #### Desktop View
-![](./S1.png)
+![](./S2.png)
 
 #### Mobile View
-![](./S2.png)
+![](./S1.png)
 
 
 ### Links
